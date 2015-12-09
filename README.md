@@ -16,7 +16,7 @@ Angular app used to query WFS endpoints
 4. Now run: ```http-server ```
 5. Enter a test WFS URL (endpoint): ```http://demo.boundlessgeo.com/geoserver/wfs```
 6. Click the "Get Info" button.  This will conduct a *GetCapabilities* on the WFS
-7. Select an item from the Feature Type list.  This will conduct a *DescribeFeature* and a *GetFeature* on the WFS
+7. Select an item from the "Feature Type" list.  This will conduct a *DescribeFeatureType* and a *GetFeature* on the WFS
 
 Optional:
 
