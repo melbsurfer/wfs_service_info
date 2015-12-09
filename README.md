@@ -2,5 +2,5 @@
 Angular app used to query WFS endpoints
 
 Install:
-
-npm install
+1. npm install
+2. You will need web server to run the application Ex: python -m SimpleHTTPServer
