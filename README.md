@@ -13,7 +13,8 @@ Angular app used to query WFS endpoints
 1. Navigate to the root of the project
 2. Run: ```npm install```
 3. You will need a web server to run the application.  Type the followg in the terminal: ```sudo npm install http-server -g```
-4. Now run: ```http-server ```  More server options [here](https://github.com/indexzero/http-server#available-options)
+4. Now run: ```http-server ```  (more server options [here](https://github.com/indexzero/http-server#available-options))
+
 5. Enter a test WFS URL (endpoint): ```http://demo.boundlessgeo.com/geoserver/wfs```
 6. Click the "Get Info" button.  This will conduct a *GetCapabilities* on the WFS
 7. Select an item from the "Feature Type" list.  This will conduct a *DescribeFeatureType* and a *GetFeature* on the WFS
