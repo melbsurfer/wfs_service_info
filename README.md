@@ -1,6 +1,9 @@
 # wfs_service_info
 Angular app used to query WFS endpoints
 
+![alt text](https://github.com/melbsurfer/wfs_service_info/blob/master/screenshots/wfs_screenshot.png "AngularWFS")
+
+
 ***
 *You will need to have node installed in order to run the application*
 
