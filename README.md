@@ -18,7 +18,7 @@ Angular app used to query WFS endpoints
 6. Click the "Get Info" button.  This will conduct a *GetCapabilities* on the WFS
 7. Select an item from the "Feature Type" list.  This will conduct a *DescribeFeatureType* and a *GetFeature* on the WFS
 
-Optional:
+#####Optional#####
 
 1. You can pass a CQL filter to the WFS by using the CQL Filter input
 ``` Ex: STATE_NAME='Indiana' ```
