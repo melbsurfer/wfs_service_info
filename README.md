@@ -1,6 +1,8 @@
 # wfs_service_info
 Angular app used to query WFS endpoints
 
+***
+
 ####Running####
 
 1. npm install
