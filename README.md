@@ -7,8 +7,6 @@ Angular app used to query WFS endpoints
 ***
 *You will need to have node installed in order to run the application.*
 
-*This app includes Node's http-server*
-
 ####Running####
 1. Navigate to the root of the project
 2. Run: ```npm install```
